@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Matrix
+Description=Matrix
+Author=Fork: iusepenguin
+Copyright=2022-2025 Qaddoumi
+License=GPLv3
+Type=sddm-theme
+Version=1.4
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=Matrix
+Screenshot=screenshot.png
+QtVersion=6
+Theme-API=2.0
